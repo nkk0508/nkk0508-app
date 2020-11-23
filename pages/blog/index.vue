@@ -5,6 +5,11 @@
         nkk0508
       </h1>
       <div class="links">
+        <div class="home-link">
+          <a href="http://localhost:3000">
+            Home
+          </a>
+        </div>
         <div class="blog-link">
           <a href="http://localhost:3000/blog">
             Blog
